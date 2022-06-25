@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "how-to-detect-log-in-to-community-as-user-in-apex/README.md",
+            "file": "spa-with-lightning-web-components/README.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how-to-detect-log-in-to-community-as-user-in-apex/README.md",
+                "file": "spa-with-lightning-web-components/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "f610bffeaf93da8e",
   "lastOpenFiles": [
+    "spa-with-lightning-web-components/README.md",
     "how-to-detect-log-in-to-community-as-user-in-apex/README.md",
     "how-to-detect-log-in-to-community-as-user-in-apex/Untitled.md",
     "README.md"
