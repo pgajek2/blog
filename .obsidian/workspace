@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "0bc343ce4aea9bbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f610bffeaf93da8e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "how-to-detect-log-in-to-community-as-user-in-apex/README.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29f325e3ed89f113",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d3b95251fc7cc25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "996b64ad3cd406e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c63a3faecb8df2cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad945c8ab3bd18f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e104ed56ad83634e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "909520667213f655",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "how-to-detect-log-in-to-community-as-user-in-apex/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f610bffeaf93da8e",
+  "lastOpenFiles": [
+    "how-to-detect-log-in-to-community-as-user-in-apex/README.md",
+    "how-to-detect-log-in-to-community-as-user-in-apex/Untitled.md",
+    "README.md"
+  ]
+}
